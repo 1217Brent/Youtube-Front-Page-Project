@@ -1,6 +1,7 @@
 # Youtube-Front-Page-Project
 
 This is a UI that replicates the Youtube Front Page built using HTML and CSS
+Already coded this project prior to getting github 
 
 ## Description
 
